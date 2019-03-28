@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+h1, h2, h3, p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+#square {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background: rebeccapurple;
+}
+
+#color-name {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
